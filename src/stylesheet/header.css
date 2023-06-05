@@ -1,0 +1,17 @@
+.Contenedor-logo-app{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.Logo-app{
+    width: 15rem;
+    height: 8rem;
+}
+
+.Logo-app:hover{
+    -webkit-transform: rotate(360deg);
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+
+}
